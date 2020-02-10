@@ -1,0 +1,72 @@
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Lat,Long
+Hubei,Mainland China,09/02/2020 23:33,29631,871,1795,30.58,114.27
+Guangdong,Mainland China,10/02/2020 03:43,1151,1,147,23.145,113.325
+Zhejiang,Mainland China,10/02/2020 01:13,1092,0,201,30.25,120.17
+Henan,Mainland China,10/02/2020 01:13,1073,6,169,34.755,113.6651
+Hunan,Mainland China,10/02/2020 02:13,879,1,186,28.2,112.97
+Anhui,Mainland China,10/02/2020 02:03,830,3,73,31.85,117.28
+Jiangxi,Mainland China,10/02/2020 01:23,771,1,102,28.68,115.88
+Jiangsu,Mainland China,10/02/2020 01:43,492,0,72,32.05,118.78
+Chongqing,Mainland China,09/02/2020 23:53,468,2,51,29.565,106.595
+Shandong,Mainland China,10/02/2020 00:43,459,1,63,36.8,118.05
+Sichuan,Mainland China,10/02/2020 01:03,405,1,76,30.67,104.07
+Beijing,Mainland China,10/02/2020 03:13,337,2,44,39.9289,116.3883
+Heilongjiang,Mainland China,10/02/2020 00:33,331,7,15,45.75,126.65
+Shanghai,Mainland China,10/02/2020 01:33,295,1,44,31.2165,121.4365
+Fujian,Mainland China,10/02/2020 01:13,261,0,35,24.5204,117.67
+Hebei,Mainland China,10/02/2020 00:23,218,2,35,38.05,114.48
+Shaanxi,Mainland China,10/02/2020 02:23,213,0,26,34.275,108.895
+Guangxi,Mainland China,10/02/2020 02:03,210,1,18,23.0965,109.6091
+Yunnan,Mainland China,09/02/2020 08:53,141,0,18,25.07,102.68
+Hainan,Mainland China,10/02/2020 00:43,136,3,19,20.05,110.32
+Shanxi,Mainland China,09/02/2020 23:43,119,0,25,37.875,112.5451
+Guizhou,Mainland China,10/02/2020 01:33,109,1,7,26.58,106.72
+Liaoning,Mainland China,09/02/2020 12:23,107,0,12,41.805,123.45
+Tianjin,Mainland China,10/02/2020 03:43,94,1,4,39.13,117.2
+Gansu,Mainland China,09/02/2020 23:33,83,2,16,36.056,103.792
+Jilin,Mainland China,10/02/2020 00:33,80,1,12,43.865,125.34
+Inner Mongolia,Mainland China,10/02/2020 02:43,58,0,5,40.6522,109.822
+Ningxia,Mainland China,10/02/2020 01:43,49,0,13,38.468,106.273
+Xinjiang,Mainland China,10/02/2020 01:13,49,0,0,43.805,87.575
+Singapore,Singapore,10/02/2020 03:03,43,0,2,1.293,103.8558
+Hong Kong,Hong Kong,10/02/2020 00:03,36,1,0,22.305,114.185
+Bangkok,Thailand,08/02/2020 12:53,32,0,10,13.75,100.5166
+Seoul,South Korea,10/02/2020 03:03,27,0,3,37.5663,126.9997
+Tokyo,Japan,09/02/2020 06:13,26,0,1,35.685,139.7514
+Qinghai,Mainland China,06/02/2020 02:13,18,0,3,36.62,101.77
+Kuala Lumpar,Malaysia,10/02/2020 03:03,18,0,1,5.4136,100.3294
+Taiwan,Taiwan,09/02/2020 09:13,18,0,1,25.0358,121.5683
+Berlin,Germany,09/02/2020 06:13,14,0,0,52.5218,13.4015
+Hanoi,Vietnam,10/02/2020 03:03,14,0,1,10.78,106.695
+Paris,France,08/02/2020 09:53,11,0,0,48.8667,2.3333
+Macau,Macau,06/02/2020 14:23,10,0,1,22.203,113.545
+Abu Dhabi,United Arab Emirates,08/02/2020 07:03,7,0,0,25.23,55.28
+Queensland,Australia,09/02/2020 19:33,5,0,0,-27.455,153.0351
+New South Wales,Australia,06/02/2020 03:13,4,0,2,-33.92,151.1852
+Victoria,Australia,01/02/2020 18:12,4,0,0,-37.82,144.975
+British Columbia,Canada,07/02/2020 05:43,4,0,0,49.2734,-123.1216
+New Dehli,India,03/02/2020 21:43,3,0,0,19.017,72.857
+Rome,Italy,07/02/2020 17:53,3,0,0,41.896,12.4833
+Manila,Philippines,07/02/2020 16:43,3,1,0,14.6042,120.9822
+England,United Kingdom,07/02/2020 18:33,3,0,0,51.5,-0.1167
+South Australia,Australia,02/02/2020 22:33,2,0,0,-34.935,138.6
+Toronto,Canada,04/02/2020 00:13,2,0,0,43.7,-79.42
+Moscow,Russia,31/01/2020 16:13,2,0,0,55.7522,37.6155
+Madrid,Spain,09/02/2020 20:33,2,0,0,40.4,-3.6834
+Chicago,US,09/02/2020 19:03,2,0,2,41.8373,-87.6862
+San Benito,US,03/02/2020 03:53,2,0,0,26.1298,-97.644
+Santa Clara,US,03/02/2020 00:43,2,0,0,22.4,-79.9667
+Brussels,Belgium,04/02/2020 15:43,1,0,0,50.8333,4.3333
+Phnom Penh,Cambodia,31/01/2020 08:15,1,0,0,11.55,104.9166
+London,Canada,04/02/2020 00:03,1,0,0,43.7,-79.42
+Helsinki,Finland,31/01/2020 08:15,1,0,0,60.1756,24.9341
+Tibet,Mainland China,01/02/2020 01:52,1,0,0,29.645,91.1
+Kathmandu,Nepal,31/01/2020 08:15,1,0,0,27.7167,85.3166
+Colombo,Sri Lanka,08/02/2020 03:43,1,0,1,6.932,79.8578
+Stockholm,Sweden,01/02/2020 02:13,1,0,0,59.3508,18.0973
+Boston,US,01/02/2020 19:43,1,0,0,42.3188,-87.6862
+Los Angeles,US,01/02/2020 19:53,1,0,0,34.1139,-97.644
+Madison,US,05/02/2020 21:53,1,0,0,43.0827,-79.9667
+Orange,US,01/02/2020 19:53,1,0,0,33.8038,4.3333
+Seattle,US,09/02/2020 07:03,1,0,1,47.6211,104.9166
+Tempe,US,01/02/2020 19:43,1,0,0,33.3881,-0.1167
